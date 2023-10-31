@@ -1,6 +1,6 @@
 # IFNMG Januária Connect
 
-![IFNMG Januária Connect](https://www.google.com/url?sa=i&url=https%3A%2F%2Fportal.ifnmg.edu.br%2Findex.php&psig=AOvVaw3fIUZqIhLrumzLebfBFY6f&ust=1698812410883000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjEpcS3n4IDFQAAAAAdAAAAABAE)
+![IFNMG Januária Connect](/assets/ifnmg.jpg)
 
 ## Visão Geral
 
@@ -29,11 +29,11 @@ Se você deseja testar o aplicativo, siga as instruções abaixo:
 
 3. Escaneie o código QR a seguir (ou digite o link) para abrir o aplicativo no seu dispositivo Android:
 
-   [![QR Code para Android]('./assets/androidQRCODE.svg')](exp://u.expo.dev/update/af5a4757-2ae3-45da-a6e0-7ad1851c8af2)
+   [![QR Code para Android](/assets/androidQRCODE.svg)](exp://u.expo.dev/update/af5a4757-2ae3-45da-a6e0-7ad1851c8af2)
 
 4. Para usuários iOS, escaneie o código QR a seguir (ou digite o link) para abrir o aplicativo no seu dispositivo:
 
-   [![QR Code para iOS]('./assets/iosQRCODE.svg')](exp://u.expo.dev/update/5931fa40-0441-433a-94df-70a6373cd7a2)
+   [![QR Code para iOS](/assets/iosQRCODE.svg)](exp://u.expo.dev/update/5931fa40-0441-433a-94df-70a6373cd7a2)
 
 ## Contribuições
 
