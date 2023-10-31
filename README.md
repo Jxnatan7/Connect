@@ -11,7 +11,6 @@ O **Connect** é um aplicativo desenvolvido em React Native e Expo que tem como 
 - React Native
 - Expo
 - TypeScript
-- [Outras bibliotecas e dependências que você utilizou]
 
 ## Requisitos do Desenvolvimento
 
