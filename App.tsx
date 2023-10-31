@@ -1,3 +1,5 @@
+import 'expo-dev-client';
+
 import React from 'react';
 
 import { StatusBar } from 'expo-status-bar';
@@ -27,9 +29,11 @@ import Transporte from './src/pages/Informacoes/Transporte';
 import TransporteDetail from './src/pages/Informacoes/Transporte/Detail';
 import Parceiros from './src/pages/Parceiros';
 import CravoECanela from './src/pages/Parceiros/CravoECanela';
+import Notifications from './src/pages/Notifications';
+import Credits from './src/pages/Credits';
 
-// const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
+
 export default function App() {
   return (
     <NavigationContainer>
@@ -55,6 +59,8 @@ export default function App() {
         <Stack.Screen name="TransporteDetail" component={TransporteDetail}/>
         <Stack.Screen name="Parceiros" component={Parceiros}/>
         <Stack.Screen name="CravoECanela" component={CravoECanela}/>
+        <Stack.Screen name="Notifications" component={Notifications}/>
+        <Stack.Screen name="Credits" component={Credits}/>
       </Stack.Navigator>
     </NavigationContainer>
   );

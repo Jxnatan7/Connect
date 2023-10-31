@@ -24,7 +24,8 @@
     "react-native-modal-datetime-picker": "^17.1.0",
     "react-native-web": "~0.19.6",
     "react-native-webview": "13.2.2",
-    "expo-splash-screen": "~0.20.5"
+    "expo-splash-screen": "~0.20.5",
+    "expo-updates": "~0.18.17"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
